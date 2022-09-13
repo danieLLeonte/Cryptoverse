@@ -2,7 +2,7 @@ import React from 'react';
 import 'chart.js/auto';
 import { Chart } from 'react-chartjs-2';
 import { Col, Row, Typography } from 'antd';
-import { RightCircleFilled } from '@ant-design/icons';
+// import { RightCircleFilled } from '@ant-design/icons';
 
 const { Title } = Typography;
 

@@ -13,7 +13,7 @@ Some key concepts that I refreshed in this project:
 * Redux toolkit (for API integration)
 * React Router
 * Ant Design for UI
-* Other Useful things (millify, chart.js, netlify)
+* Other Useful things (millify, chart.js)
 
 ## Available Scripts
 
